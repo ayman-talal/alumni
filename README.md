@@ -99,8 +99,7 @@ npm run dev
 ## 👤 Author
 
 **Ayman**
-MIS Student · University IT Technician · Aspiring Data/BI Analyst
-📍 Istanbul, Turkey
+MIS Student · Istanbul University · 📍 Istanbul, Turkey
 
 ---
 
